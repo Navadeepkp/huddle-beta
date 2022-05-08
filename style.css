@@ -82,3 +82,7 @@ li{
     border: 1px solid rgb(205, 209, 215);
     padding: 0.5rem 0.6rem;
 }
+button:hover{
+    background-color:hsl(300, 69%, 71%);
+    color: #fff;
+}
